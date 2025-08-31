@@ -1,5 +1,8 @@
 # Sign Language Action Recognition using LSTM (PyTorch & Keras)
 
+![prediction](https://github.com/user-attachments/assets/4250af13-53da-4e91-925b-71ba2e2f949f)
+
+
 This project implements **action recognition for sign language** using keypoint data extracted from video samples of the **WLASL (Word-Level American Sign Language)** dataset.
 
 It includes:
